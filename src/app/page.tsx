@@ -74,7 +74,7 @@ export default function Home() {
           <div className="flex flex-col items-center text-center">
             <div className="relative w-32 h-32 mb-8 rounded-full overflow-hidden border-4 border-primary shadow-lg">
               <Image
-                src="/profile.jpg"
+                src="profile.jpg"
                 alt="Edson Cândido"
                 fill
                 className="object-cover"
