@@ -21,12 +21,12 @@ Este é meu portfólio profissional, desenvolvido com Next.js e Tailwind CSS. O 
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/EdsonCandido/portfolio2.git
+git clone https://github.com/EdsonCandido/portfolio.git
 ```
 
 2. Instale as dependências:
 ```bash
-cd portfolio2
+cd portfolio
 npm install
 ```
 
@@ -40,7 +40,7 @@ npm run dev
 ## Estrutura do Projeto
 
 ```
-portfolio2/
+portfolio/
 ├── src/
 │   ├── app/
 │   │   ├── page.tsx
