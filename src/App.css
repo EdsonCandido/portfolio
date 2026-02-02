@@ -1,0 +1,4 @@
+/* App specific styles if needed, otherwise use index.css */
+.app {
+  min-height: 100vh;
+}
