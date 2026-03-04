@@ -71,6 +71,10 @@ const About = () => {
                   style={{ listStyle: "none", color: "var(--text-secondary)" }}
                 >
                   <li style={{ marginBottom: "0.5rem" }}>Node.js & NestJS</li>
+                  <li style={{ marginBottom: "0.5rem" }}>Java & Spring Boot</li>
+                  <li style={{ marginBottom: "0.5rem" }}>
+                    PHP & CachePHP/CodeIgniter
+                  </li>
                   <li style={{ marginBottom: "0.5rem" }}>REST & GraphQL RPC</li>
                   <li>Microservices</li>
                 </ul>
@@ -89,6 +93,7 @@ const About = () => {
                   style={{ listStyle: "none", color: "var(--text-secondary)" }}
                 >
                   <li style={{ marginBottom: "0.5rem" }}>React & Next.js</li>
+                  <li style={{ marginBottom: "0.5rem" }}>HTML & JQuery</li>
                   <li style={{ marginBottom: "0.5rem" }}>
                     Tailwind & CSS-in-JS
                   </li>
@@ -109,8 +114,11 @@ const About = () => {
                   style={{ listStyle: "none", color: "var(--text-secondary)" }}
                 >
                   <li style={{ marginBottom: "0.5rem" }}>PostgreSQL & MySQL</li>
+                  <li style={{ marginBottom: "0.5rem" }}>
+                    Oracle & SQL Server
+                  </li>
                   <li style={{ marginBottom: "0.5rem" }}>Redis & MongoDB</li>
-                  <li>ORM (Prisma/TypeORM)</li>
+                  <li>ORM (Prisma/Knex)</li>
                 </ul>
               </div>
             </div>
