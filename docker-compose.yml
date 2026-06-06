@@ -1,4 +1,4 @@
-ervices:
+services:
   frontend:
     build:
       context: .
